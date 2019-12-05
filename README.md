@@ -2,7 +2,7 @@
 
 ## Statue of Liberty
 
-![Statue](/images/liberty.jpg)
+![Statue](public/images/liberty.jpg)
 
 Not like the brazen giant of Greek fame,<br>
 With conquering limbs astride from land to land;<br>
